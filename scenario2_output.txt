@@ -1,0 +1,16 @@
+====================================================================================================
+SCENARIO 2 — IPL 2024: Players with 30+ runs in 3+ Consecutive Matches
+====================================================================================================
+
+Players found: 4
+
+Player                 Streak Start    Streak End       Matches    Min    Max    Total
+-------------------------------------------------------------------------------------
+Virat Kohli            2024-03-22      2024-04-07             5     31     88      292
+KL Rahul               2024-03-25      2024-04-06             4     33     78      218
+Rohit Sharma           2024-03-23      2024-03-31             3     34     91      190
+Suryakumar Yadav       2024-03-26      2024-04-03             3     31     82      160
+
+Correctly EXCLUDED:
+  Shubman Gill   : only 2 consecutive 30+ scores
+  Hardik Pandya  : never achieved 3 consecutive 30+ scores
